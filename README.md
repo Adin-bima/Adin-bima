@@ -67,7 +67,6 @@ My work often intersects with:
 - 📍 Mataram, NTB 🇮🇩  
 - ✉️ **alidin202@gmail.com**  
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/alidin)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alidin)
 
 ---
 
