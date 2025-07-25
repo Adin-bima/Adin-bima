@@ -10,7 +10,7 @@
 
 💡 Fun facts:
 - I’m obsessed with writing clean, scalable APIs
-- I enjoy system architecture, reverse engineering, and open source
+- I enjoy system architecture and open source
 - I often switch between **Golang**, **Typescript**, and **Python** based on the problem
 
 ---
