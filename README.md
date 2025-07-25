@@ -46,7 +46,7 @@ My work often intersects with:
 
 ---
 
-### 📌 Featured Projects
+### 📌 Featured Personal Projects
 
 - 🎒 [**NC-Bag-Mapper**](https://github.com/Adin-bima/NC-Bag-Mapper)  
   ![iOS](https://img.shields.io/badge/platform-iOS-blue?logo=apple&logoColor=white) ![Swift](https://img.shields.io/badge/code-Swift-orange?logo=swift) ![Status](https://img.shields.io/badge/status-complete-brightgreen)  
