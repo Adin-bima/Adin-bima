@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adin Bima</h1>
+<h1 align="center">Hi 👋, I'm Alidin (Adin)</h1>
 <h3 align="center">Software Engineer | Backend Developer | Frontend Developer </h3>
 
 ---
