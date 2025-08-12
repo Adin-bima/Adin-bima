@@ -5,7 +5,7 @@
 
 🔭 I’m currently working on:
 - ⚙️ Building high-performance backend systems with **Golang** and **TypeScript**
-- 🌍 Web apps using **Next.js**, **Express.js**, **MongoDB**, and **PostgreSQL**
+- 🌍 Web apps using **Next.js**, **Express.js**, and **MongoDB**
 - 🧠 Experimenting with AI, FHIR APIs, and health tech standards
 
 💡 Fun facts:
