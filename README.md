@@ -15,37 +15,6 @@
 
 ---
 
-### 🌍 What Drives Me
-
-I'm deeply passionate about solving real-life problems—especially those that impact people the most.  
-My work often intersects with:
-- 🏥 **Healthcare** – building smarter, interoperable medical systems
-- 🎓 **Education** – improving access and experience through tech
-- 🛍️ **UMKM** – empowering small businesses with scalable digital tools
-
----
-
-### 🚀 Languages & Tools
-
-**Languages:**
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Go](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-
-**Databases:**
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-
-**Tools:**
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-
----
-
 ### 📌 Featured Personal Projects
 
 - 🎒 [**Bag Mapper**](https://github.com/Adin-bima/NC-Bag-Mapper)  
