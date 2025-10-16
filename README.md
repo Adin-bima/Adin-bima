@@ -25,7 +25,7 @@
   ![UMKM](https://img.shields.io/badge/domain-UMKM-blueviolet) ![Marketplace](https://img.shields.io/badge/type-Marketplace-orange) ![Status](https://img.shields.io/badge/status-upcoming-yellow)  
   A small marketplace platform built to support and empower **UMKM** businesses.
 
-- 🧑‍🏫 **Class Up** *(upcoming)*  
+- 🧑‍🏫 [**Class Up**](https://stg-class-up.vercel.app/)
   ![Education](https://img.shields.io/badge/domain-Education-009688) ![App](https://img.shields.io/badge/type-TeacherApp-blue) ![Status](https://img.shields.io/badge/status-upcoming-yellow)  
   An intuitive app for teachers to **track and manage student performance**, making classroom insights easier to handle.
 
